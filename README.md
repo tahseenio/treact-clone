@@ -1,4 +1,4 @@
-# 🍿 Treact Clone
+# 🦸 Treact Clone
 
 <img src="https://img.shields.io/github/deployments/tahseenio/treact-clone/github-pages" alt="GitHub Badge"> <img src="https://img.shields.io/github/repo-size/tahseenio/treact-clone">
 
