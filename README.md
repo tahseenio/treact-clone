@@ -5,6 +5,7 @@
 ### Description
 - A Treact Template Clone created using HTML and CSS
 - CSS Flexbox and BEM styling was used
+- Animate on scroll library was used and can be found [here](https://michalsnik.github.io/aos/)
 - The website can be viewed [here](https://tahseenio.github.io/treact-clone/)
 
 <img src="https://i.imgur.com/h2fImJJ.png">
