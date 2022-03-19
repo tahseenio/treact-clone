@@ -14,11 +14,11 @@
 
 ## Installation and Usage
 
-##### Clone the repo using
+##### 1. Clone the repo using
 
 `https://github.com/tahseenio/treact-clone.git`
 
-##### Run using the VSCode Live Server extension or similar
+##### 2. Run using the VSCode Live Server extension or similar
 
 Can be found [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
