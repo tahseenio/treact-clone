@@ -8,6 +8,8 @@
 - Animate on scroll library was used and can be found [here](https://michalsnik.github.io/aos/)
 - The website can be viewed [here](https://tahseenio.github.io/treact-clone/)
 
+## Screenshots
+
 <img src="https://i.imgur.com/h2fImJJ.png">
 
 ## Installation and Usage
