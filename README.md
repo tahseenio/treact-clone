@@ -8,7 +8,7 @@
 - CSS Flexbox and BEM styling was used
 - Responsive on all devices
 - Animate on scroll library was used and can be found [here](https://michalsnik.github.io/aos/)
-- The website can be viewed [here](https://tahseenio.github.io/treact-clone/)
+- The website can be viewed [here](https://treact-clone.vercel.app/)
 
 ## Screenshots
 
